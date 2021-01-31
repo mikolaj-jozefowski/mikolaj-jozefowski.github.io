@@ -1,6 +1,6 @@
-## Witaj na moim blogu 
+## Witaj na moim blogu dotyczącym hodowli ślimaków!
 
-You can use the [editor on GitHub](https://github.com/mikolaj-jozefowski/mikolaj-jozefowski.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files. 22
+Do sprawdzenia informacji na temat ślimaków, zapraszam cię [na tę stronę internetową](https://pl.wikipedia.org/wiki/%C5%9Alimaki). 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![https://upload.wikimedia.org/wikipedia/commons/6/64/Grapevinesnail_01a.jpg](https://upload.wikimedia.org/wikipedia/commons/6/64/Grapevinesnail_01a.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
