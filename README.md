@@ -1,37 +1,34 @@
 ## Witaj na moim blogu dotyczącym hodowli ślimaków!
 
-Do sprawdzenia informacji na temat ślimaków, zapraszam cię [na tę stronę internetową](https://pl.wikipedia.org/wiki/%C5%9Alimaki). 
+Do sprawdzenia informacji na temat ślimaków, zapraszam Cię [na tę stronę internetową](https://pl.wikipedia.org/wiki/%C5%9Alimaki). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Opiszę ci dzisiaj kilka wskazówek, jak obchodzić się z tymi mięczakami.
 
-### Markdown
+### Zapraszam do lektury.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Wszystkie rady, które tutaj podam, wynikają z własnego doświadczenia.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1 333333
-## Header 2333333
-### Header 3444444444
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![https://upload.wikimedia.org/wikipedia/commons/6/64/Grapevinesnail_01a.jpg](https://upload.wikimedia.org/wikipedia/commons/6/64/Grapevinesnail_01a.jpg)
+1. **Patrz pod nogi!** 
+Niestety nierzadko zdarza się nam nadepnąć na nieszczęsnego ślimaka. Ograniczmy takie sytuacje do minimum.
+2. **Odpowiednia dieta.**
+Ślimaki należy karmić naturalnymi liśćmi roślin, takich jak: kapusta, sałata, kalarepa.
+3. **Nie dopuśćmy do nich drapieżników**
+Jeśli posiadasz gryzonia lub kota, miej świadomość, że takie zwierzęta są w stanie zjeść ze smakiem naszego ślimaka. 
+Tak samo groźne są owady i pająki, żywiące się nieraz tymi bezbronnymi mięczakami.
+4. **Zadbaj o otoczenie**
+Te zwierzątka dobrze czują się np. w akwariach z dużą ilością roślin i gleby.
+5. **"Stay hydrated."** 
+Ślimaki potrzebują właściwego nawodnienia. Wystarczy kilka łyżek wody dziennie.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Kilka ciekawostek.
 
-### Jekyll Themes
+Ślimaki są głuche. Nie mają one żadnego mechanizmu słyszenia dźwięków.
+Poruszają się z prędkością około 1 centymetra na sekundę.
+Ślimaki lądowe mają płuca, a ślimaki morskie posiadają skrzela.
+Niektóre gatunki morskich ślimaków są jadowite. Pewien gatunek jest zdolny zabić człowieka jednym ukłuciem.
+Ślimaki są obupłciowe. Nie potrzebują innych osobników do rozmnażania. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikolaj-jozefowski/mikolaj-jozefowski.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Dziękuję za przeczytanie! 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
